@@ -16,18 +16,20 @@
 - Manage Reports
 - Customer Module
 
-#Registration
+# Registration
 - Login
 - Make Order
 - Make Payment
 - Manage Account
 - Change Password
 
-##Steps to run project C#
-# 1 impot database
-# 2 update the project about database congif and ..
-# 3 you need to conect ASP with SQLSERVER ( ).
-# 4 Don't forget check the name database and you project.
-## The tool you must have is SQL server, visua code 2019 or more.
+## Steps to run project C#
+ 1 impot database
+ 2 update the project about database congif and ..
+ 3 you need to conect ASP with SQLSERVER ( ).
+ 4 Don't forget check the name database and you project.
+## The tool you must have :
+- SQL server
+- Visua code 2019 or more.
 
 
