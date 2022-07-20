@@ -24,10 +24,10 @@
 - Change Password
 
 ## Steps to run project C#
- 1 impot database
- 2 update the project about database congif and ..
- 3 you need to conect ASP with SQLSERVER ( ).
- 4 Don't forget check the name database and you project.
+ 1. impot database
+ 2. update the project about database congif and ..
+ 3. you need to conect ASP with SQLSERVER ( ).
+ 4. Don't forget check the name database and you project.
 ## The tool you must have :
 - SQL server
 - Visua code 2019 or more.
